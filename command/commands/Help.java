@@ -14,8 +14,6 @@ public class Help extends CommandImp {
 
         System.out.println();
 
-
-
         //System.out.println("———————————————————————————————————————————————————————————");
         Commands.instance.getCommands().forEach((name, command)-> {
             System.out.println("▌ " + name + "  ->  " + arrowLength(name) + command.getDiscription());
