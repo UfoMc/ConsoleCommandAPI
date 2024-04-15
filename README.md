@@ -17,6 +17,10 @@ How does it work?
  > Your command is now registered and you can start the application.
  > The command and its usage will automaticly show up in the help menue.
 
+Example
+- 
+ <img src="command-api.png" width="2048" hight="400"/>
+
 Wye should I use console commands?
 -
  - console commands are an easy way to manage your application during the uptime
