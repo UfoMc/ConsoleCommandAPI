@@ -4,7 +4,7 @@ import de.matga.command.imp.CommandImp;
 
 public class Stop extends CommandImp {
     public Stop() {
-        super("The <stop> command will stop the rest api");
+        super("The <stop> command will stop the services");
     }
 
     @Override
