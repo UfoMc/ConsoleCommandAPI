@@ -1,4 +1,4 @@
-<img src="command-api.png" width="2048" hight="400"/>
+<img src="example.png" width="2048" hight="400"/>
 
 What is the UfoMc Console API?
 -
