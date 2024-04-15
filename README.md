@@ -22,6 +22,10 @@ Example
 - 
  <img src="example.png" width="2048" hight="400"/>
 
+ ```
+
+ ```
+
 Wye should I use console commands?
 -
  - console commands are an easy way to manage your application during the uptime
