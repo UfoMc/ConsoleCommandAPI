@@ -49,6 +49,25 @@ Wye should I use console commands?
 > So as eazy as that we got our selfs own console commands.
 > cool! :D
 
+Dependencies
+-
+```xml
+ <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.30</version>
+            <scope>compile</scope>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/io.github.classgraph/classgraph -->
+        <dependency>
+            <groupId>io.github.classgraph</groupId>
+            <artifactId>classgraph</artifactId>
+            <version>4.8.170</version>
+        </dependency>
+    </dependencies>```
+
 Any questions left?
 - 
  > add me on dc <ufo.dev>.
