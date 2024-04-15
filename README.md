@@ -60,7 +60,6 @@ Dependencies
             <scope>compile</scope>
         </dependency>
 
-        <!-- https://mvnrepository.com/artifact/io.github.classgraph/classgraph -->
         <dependency>
             <groupId>io.github.classgraph</groupId>
             <artifactId>classgraph</artifactId>
