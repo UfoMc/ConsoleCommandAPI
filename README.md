@@ -24,7 +24,7 @@ Example
 Wye should I use console commands?
 -
  - console commands are an easy way to manage your application during the uptime
- - also with my simple to use api it is very easy to add new commands without worrying about codinh one your self
+ - also with my simple to use api it is very easy to add new commands without worrying about conding one your self
 
 > So as eazy as that we got our selfs own console commands.
 > cool! :D
