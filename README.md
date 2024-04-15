@@ -7,7 +7,9 @@ What is the UfoMc Console API?
  - you can easyly add your own commands by following the tutorial down below
 
 How does it work?
--
+- 
+ > IMPORTANT: `You HAVE to change the path of the package beeing scanned in the **Commands.java** file`
+
  1. you create a new java class (name it how the commands name should be in uppercase first letter)
   - example: `Help`
  2. you extend the CommandImp.java file
