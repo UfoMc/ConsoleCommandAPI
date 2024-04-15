@@ -8,7 +8,8 @@ What is the UfoMc Console API?
 
 How does it work?
 -
- 1. you create a new java class 
+ 1. you create a new java class (name it how the commands name should be in uppercase first letter)
+  - example: `Help`
  2. you extend the CommandImp.java file
  3. you implement the methodes
  4. you type the discription into the super
