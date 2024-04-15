@@ -22,7 +22,7 @@ Example
 - 
  <img src="example.png" width="2048" hight="400"/>
 
- ```
+```java
 package de.matga.command.commands;
 
 import de.matga.command.imp.CommandImp;
