@@ -29,6 +29,10 @@ Wye should I use console commands?
 > So as eazy as that we got our selfs own console commands.
 > cool! :D
 
+Any questions left?
+- 
+ > add me on dc <ufo.dev>.
+
 Credit
 -
  - as always: The code is free to use, if you give me a credit or not is your choise.
