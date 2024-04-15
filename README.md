@@ -65,7 +65,8 @@ Dependencies
             <artifactId>classgraph</artifactId>
             <version>4.8.170</version>
         </dependency>
-    </dependencies>```
+    </dependencies>
+```
 
 Any questions left?
 - 
